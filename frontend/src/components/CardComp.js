@@ -58,7 +58,7 @@ export default class CardComp extends Component {
                       });
                     }}
                   >
-                    Delte
+                    Delete
                   </Button>
                 </ButtonGroup>
               </Card>
